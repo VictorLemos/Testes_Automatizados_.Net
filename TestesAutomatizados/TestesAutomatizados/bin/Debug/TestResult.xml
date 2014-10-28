@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\TestesAutomatizados\TestesAutomatizados\bin\Debug\TestesAutomatizados.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-10-03" time="18:24:54">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="HARO-PC" user="HarO" user-domain="HarO-PC" />
+  <culture-info current-culture="pt-BR" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\TestesAutomatizados\TestesAutomatizados\bin\Debug\TestesAutomatizados.dll" executed="True" result="Success" success="True" time="0.113" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestesAutomatizados" executed="True" result="Success" success="True" time="0.095" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TesteDoAvaliador" executed="True" result="Success" success="True" time="0.082" asserts="0">
+            <results>
+              <test-case name="TestesAutomatizados.TesteDoAvaliador.DeveEncontrarOsTresMaioresLances" executed="True" result="Success" success="True" time="0.057" asserts="4" />
+              <test-case name="TestesAutomatizados.TesteDoAvaliador.DeveEntederLeilaoComApenasUmLance" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="TestesAutomatizados.TesteDoAvaliador.DeveEntenderLancesEmOrdemCrescente" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="TestesAutomatizados.TesteDoAvaliador.NaoDeveAvaliarLeiloesSemNenhumLanceDado" executed="True" result="Success" success="True" time="0.005" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="TesteDoLeilao" executed="True" result="Success" success="True" time="0.009" asserts="0">
+            <results>
+              <test-case name="TestesAutomatizados.TesteDoLeilao.DeveReceberUmLance" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="TestesAutomatizados.TesteDoLeilao.DeveReceberVariosLances" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+              <test-case name="TestesAutomatizados.TesteDoLeilao.NaoDeveAceitarDoisLancesSeguidosDoMesmoUsuario" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="TestesAutomatizados.TesteDoLeilao.NaoDeveAceitarMaisDoQue5LancesDeUmMesmoUsuario" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

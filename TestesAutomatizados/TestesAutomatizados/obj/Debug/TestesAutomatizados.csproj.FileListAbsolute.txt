@@ -1,0 +1,14 @@
+E:\TesteUnidades.TDD\TestesAutomatizados\TestesAutomatizados\bin\Debug\TestesAutomatizados.pdb
+E:\TesteUnidades.TDD\TestesAutomatizados\TestesAutomatizados\obj\Debug\TestesAutomatizados.csprojResolveAssemblyReference.cache
+E:\TesteUnidades.TDD\TestesAutomatizados\TestesAutomatizados\obj\Debug\TestesAutomatizados.pdb
+E:\TesteUnidades.TDD\TestesAutomatizados\TestesAutomatizados\bin\Debug\nunit.framework.dll
+E:\TesteUnidades.TDD\TestesAutomatizados\TestesAutomatizados\bin\Debug\TestesAutomatizados.dll.config
+E:\TesteUnidades.TDD\TestesAutomatizados\TestesAutomatizados\bin\Debug\TestesAutomatizados.dll
+E:\TesteUnidades.TDD\TestesAutomatizados\TestesAutomatizados\obj\Debug\TestesAutomatizados.dll
+C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\TestesAutomatizados\TestesAutomatizados\bin\Debug\TestesAutomatizados.dll.config
+C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\TestesAutomatizados\TestesAutomatizados\bin\Debug\TestesAutomatizados.dll
+C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\TestesAutomatizados\TestesAutomatizados\bin\Debug\TestesAutomatizados.pdb
+C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\TestesAutomatizados\TestesAutomatizados\bin\Debug\nunit.framework.dll
+C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\TestesAutomatizados\TestesAutomatizados\obj\Debug\TestesAutomatizados.csprojResolveAssemblyReference.cache
+C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\TestesAutomatizados\TestesAutomatizados\obj\Debug\TestesAutomatizados.dll
+C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\TestesAutomatizados\TestesAutomatizados\obj\Debug\TestesAutomatizados.pdb

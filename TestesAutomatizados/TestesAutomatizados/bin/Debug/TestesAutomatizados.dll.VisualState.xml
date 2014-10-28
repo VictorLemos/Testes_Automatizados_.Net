@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1010]C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\TestesAutomatizados\TestesAutomatizados\bin\Debug\TestesAutomatizados.dll</TopNode>
+  <SelectedNode>[0-1011]TestesAutomatizados</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1010]C:\Users\HarO\Desktop\Projetos_Para_Divulgar\DotNet\TestesAutomatizados\TestesAutomatizados\bin\Debug\TestesAutomatizados.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]TestesAutomatizados" Expanded="true" />
+    <Node UniqueName="[0-1000]TestesAutomatizados.TesteDoAvaliador" Expanded="true" />
+    <Node UniqueName="[0-1005]TestesAutomatizados.TesteDoLeilao" Expanded="true" />
+  </Nodes>
+</VisualState>
